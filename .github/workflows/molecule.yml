@@ -1,8 +1,5 @@
 name: Molecule Test
-on:
-  push:
-    branches:
-      - 'GEMRefactor'
+on: push
 
 jobs:
   build:
